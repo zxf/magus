@@ -1,0 +1,27 @@
+{
+  "name": "almanac",
+  "version": "0.0.0",
+  "description": "Almanac utility functions",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zxf/almanac.git"
+  },
+  "author": "zxf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zxf/almanac/issues"
+  },
+  "homepage": "https://github.com/zxf/almanac",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "load-grunt-tasks": "~0.2.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-concat": "~0.5.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-uglify": "~0.6.0",
+  }
+}
