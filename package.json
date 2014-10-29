@@ -1,21 +1,21 @@
 {
-  "name": "almanac",
+  "name": "annal",
   "version": "0.0.0",
-  "description": "Almanac utility functions",
+  "description": "Annal utility functions",
   "main": " ",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zxf/almanac.git"
+    "url": "https://github.com/zxf/annal.git"
   },
   "author": "zxf",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zxf/almanac/issues"
+    "url": "https://github.com/zxf/annal/issues"
   },
-  "homepage": "https://github.com/zxf/almanac",
+  "homepage": "https://github.com/zxf/annal",
   "devDependencies": {
     "grunt": "~0.4.2",
     "load-grunt-tasks": "~0.2.0",
