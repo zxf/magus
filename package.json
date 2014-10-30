@@ -1,21 +1,21 @@
 {
-  "name": "annal",
+  "name": "magus",
   "version": "0.0.0",
-  "description": "Annal utility functions",
+  "description": "Magus utility functions",
   "main": " ",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zxf/annal.git"
+    "url": "https://github.com/zxf/magus.git"
   },
   "author": "zxf",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zxf/annal/issues"
+    "url": "https://github.com/zxf/magus/issues"
   },
-  "homepage": "https://github.com/zxf/annal",
+  "homepage": "https://github.com/zxf/magus",
   "devDependencies": {
     "grunt": "~0.4.2",
     "load-grunt-tasks": "~0.2.0",
